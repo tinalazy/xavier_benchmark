@@ -1,0 +1,4 @@
+make :
+ nvcc ./main.cu -lcublas
+run :
+./a.out 
